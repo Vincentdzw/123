@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="apache-tomcat-10.0">
+    <CLASSES>
+      <root url="file://E:/comcat/apache-tomcat-10.0.17" />
+      <root url="jar://E:/comcat/apache-tomcat-10.0.17/lib/jsp-api.jar!/" />
+      <root url="jar://E:/comcat/apache-tomcat-10.0.17/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/comcat/apache-tomcat-10.0.17/webapps/docs/appdev/sample/src" />
+      <root url="file://E:/comcat/apache-tomcat-10.0.17/webapps/examples/WEB-INF/classes" />
+    </SOURCES>
+  </library>
+</component>

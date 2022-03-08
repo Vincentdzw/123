@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="2020211001001408Dengzhiwen:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/2020211001001408Dengzhiwen_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="2020211001001408Dengzhiwen/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="2020211001001408Dengzhiwen" />
+          <element id="dir-copy" path="E:/comcat/apache-tomcat-8.5.76" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
